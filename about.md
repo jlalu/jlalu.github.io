@@ -1,14 +1,12 @@
 ---
 layout: page
-title: About
+title: Sobre mí
 permalink: /about/
 ---
 
-Some information about you!
+Por ahora no voy a hablar mucho de mí.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Pero me puedes escribir a:
 
 ### Contact me
 
