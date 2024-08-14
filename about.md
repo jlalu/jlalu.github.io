@@ -4,10 +4,4 @@ title: Sobre mí
 permalink: /about/
 ---
 
-Por ahora no voy a hablar mucho de mí.
-
-Pero me puedes escribir a:
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+No os voy a aburrir hablando de mí.  Saludos a los todos los lectores.  Comenta si algo te parece interesante.
