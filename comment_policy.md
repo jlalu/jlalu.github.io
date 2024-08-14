@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Política de comentarios
-permalink: /comment-policy.html
+permalink: /comment-policy
 ---
 
 ¡Bienvenido a mi blog! Estoy encantado de que quieras participar en las conversaciones y compartir tus pensamientos. Para asegurarnos de que este espacio sea positivo y constructivo, he establecido algunas pautas para los comentarios.
