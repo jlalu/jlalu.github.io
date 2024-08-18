@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Itinerario 2 Valle de Egüés
+title: Alzuza-Sagaseta-Elcano-Alzuza (Itinerario 2 Valle de Egüés)
 comments: true
 tags: deporte senderismo
 ---
