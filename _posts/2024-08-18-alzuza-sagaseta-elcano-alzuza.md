@@ -17,6 +17,4 @@ Dejo fotos y track en SICAMI y Wikiloc.
 
 [--> Ruta en Sicami <--](https://sicami.com/track/29725/1286095?share=true&hash=5597a192 "Ruta en Sicami")
 
-[--> Track 3D en Sicami <--](https://sicami.com/track3d/29725/1286095/3d "Track 3D en Sicami")
-
 [--> Ruta en Wikiloc <--](https://es.wikiloc.com/rutas-senderismo/alzuza-alto-de-txoribar-sagaseta-elcano-alzuza-itinerario-2-valle-de-egues-181557712 "Ruta en Wikiloc")
