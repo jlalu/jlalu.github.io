@@ -5,7 +5,9 @@ comments: true
 tags: deporte senderismo
 ---
 
-Este paseo se puede hacer perfectamente en una tarde.  Es un recorrido circular. Lo empiezo en Alzuza, en el parking del Museo Oteiza. Así empiezo en la parte de mayor subida del recorrido.  Llega hasta el Alto de Txoribar, para bajar a Sagaseta, seguir por carretera hasta Elcano y volver a Alzuza por la pista que pasa junto a la Clínica Ubarmin.
+Este paseo se puede hacer perfectamente en una tarde.  
+
+Es un recorrido circular. Lo empiezo en Alzuza, en el parking del Museo Oteiza. Así empiezo en la parte de mayor subida del recorrido.  Llega hasta el Alto de Txoribar, para bajar a Sagaseta, seguir por carretera hasta Elcano y volver a Alzuza por la pista que pasa junto a la Clínica Ubarmin.
 
 No hay ninguna dificultad técnica, se progresa por pistas y carretera.  Lo más que vamos a encontrar es algún charco grande en zonas sombrías.  El alto de Txoribar es una cuesta con bastante desnivel pero como tiene pista de cemento no hay ningún problema.  En la parte final, llegando a Alzuza el camino es algo más estrecho y al atardecer nos saludarán los mosquitos.  Así que es un paseo fácil.
 
